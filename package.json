@@ -19,5 +19,9 @@
   "homepage": "https://github.com/doodlefolks/hackthedot#readme",
   "dependencies": {
     "express": "^4.13.4"
-  }
+  },
+  "engines": {
+    "node": "0.12.11",
+    "npm": "1.2.25"
+  } 
 }
